@@ -1,0 +1,27 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    font-size: 1.5rem;
+  }
+  
+  .guest-logo {
+    background-color: #fff; /* Background color for the guest logo */
+    color: #333; /* Text color for the guest logo */
+    padding: 8px 12px;
+    border-radius: 4px;
+  }
+  
